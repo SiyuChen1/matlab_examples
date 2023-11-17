@@ -1,0 +1,834 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>GenerateGyroscopeDataFromStationaryInputsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex00064404</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>GroundIMUandGPSFusionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex00804183</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1624271798">HelperPoseViewer.m</file>
+    <file component="shared_positioning" timestamp="1554733918">HelperPositionViewer.m</file>
+    <file component="shared_positioning" timestamp="1538057388">HelperScrollingPlotter.m</file>
+  </demoitem>
+  <demoitem>
+    <source>StateInformationOfInsfilterMARGExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex01693138</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>StateInformationOfInsfilterNonholonomicExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex03177813</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>FuseInertialSensorDataUsingInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex03331526</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>TuneInsfilterMARGToOptimizePoseEstimateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex05730875</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>ObtainMeasurementNoiseStructureOfInsfilterAsyncExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex05774559</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>ModelRotatingSixAxisIMUDataWithNoiseExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex06581310</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>CorrectAngularVelocityStateInInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex07596591</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>OrrectDataLyingOnEllipsoidExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex09443625</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateOrientationFromIMUDataExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex10850529</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>TuneInsfilterErrorStateToOptimizePoseEstimateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex11861738</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>LoggedSensorDataAlignmentForOrientationEstimationExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex13026989</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1561135417">imuData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateInsGyroscopeForUsingInInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex14131219</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>ModelRotatingSixAxisIMUDataExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex16603531</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateInsMotionPoseForUsingInInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex18168063</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>AutomaticTuningOfTheInsfilterAsyncFilterExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex21856502</metadata>
+    <thumbnail>html/AutomaticTuningOfTheInsfilterAsyncFilterExample_02.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1592422954">fuse.m</file>
+  </demoitem>
+  <demoitem>
+    <source>BatchFusionOfAccelerometerAndGyroscopeDataUsingInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex23718275</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1665487132">accelGyroINSEKFData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateDefaultINSFilterExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex24486567</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnRotationMatrixExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex24819462</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>IMUandGPSFusionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex24822957</metadata>
+    <thumbnail>html/IMUandGPSFusionExample_02.png</thumbnail>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1579156309">HelperBox.m</file>
+    <file component="shared_positioning" timestamp="1554733918">HelperPoseViewer.m</file>
+    <file component="shared_positioning" timestamp="1554733918">HelperPositionViewer.m</file>
+    <file component="shared_positioning" timestamp="1538057388">HelperScrollingPlotter.m</file>
+    <file component="shared_positioning" timestamp="1579156309">HelperOrientationViewer.m</file>
+    <file component="shared_positioning" timestamp="1541431194">LoggedQuadcopter.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>PredictInsEKFFilterObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex25467390</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>QuaternionExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex26184192</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1565185003">HelperDrawRotation.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SimulateMagneticJammingOnAhrsFilterExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex27943247</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1553537963">StationaryIMUReadings.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>ObtainGyroscopeMeasurementResidualsUsingInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex27963738</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>ObtainStateInformationOfInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex30363688</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>DesignFusionFilterForCustomSensorsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex30623085</metadata>
+    <product>matlab</product>
+    <product>nav</product>
+    <product>matlabcoder</product>
+    <product>fusion</product>
+    <file component="shared_positioning" timestamp="1638898422">exampleHelperConstantVelocityMotion.m</file>
+    <file component="shared_positioning" timestamp="1638898422">exampleHelperMakeGroundTruth.m</file>
+    <file component="shared_positioning" timestamp="1638898422">exampleHelperSaveCostFunction.m</file>
+    <file component="shared_positioning" timestamp="1638898422">exampleHelperUseCodegenForCost.m</file>
+    <file component="shared_positioning" timestamp="1638898422">exampleHelperVelocitySensor.m</file>
+    <file component="shared_positioning" timestamp="1640014039">exampleHelperVelocitySensorWithBias.m</file>
+    <file component="shared_positioning" timestamp="1640014039">exampleHelperVelocitySensorWithGM.m</file>
+    <file component="shared_positioning" timestamp="1638898422">exampleHelperVelocityWithBias.m</file>
+    <file component="shared_positioning" timestamp="1638898422">exampleHelperVelocityWithGaussMarkov.m</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateCopyOfInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex31822479</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimatePoseOfGroundVehicleNHExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex33470221</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateOrientationUsingGPSDerivedYawMeasurementsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex33564994</metadata>
+    <product>matlab</product>
+    <product>nav</product>
+    <product>matlabcoder</product>
+    <product>fusion</product>
+    <file component="shared_positioning" timestamp="1641936416">exampleHelperMakeIMUGPSData.m</file>
+    <file component="shared_positioning" timestamp="1638963795">exampleHelperMakeTrajectory.m</file>
+    <file component="shared_positioning" timestamp="1638963795">exampleHelperUseAcceleratedTuning.m</file>
+    <file component="shared_positioning" timestamp="1640020452">exampleHelperYawSensor.m</file>
+  </demoitem>
+  <demoitem>
+    <source>PoseEstimationFromAsynchronousSensorsExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex33837386</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1541538424">CircularTrajectorySensorData.mat</file>
+    <file component="shared_positioning" timestamp="1544469106">PoseViewerWithSwitches.m</file>
+    <file component="shared_positioning" timestamp="1544469106">generateCircularTrajSensorData.m</file>
+    <file component="shared_positioning" timestamp="1538057388">HelperScrollingPlotter.m</file>
+    <file component="shared_positioning" timestamp="1554733918">HelperPoseViewer.m</file>
+    <file component="shared_positioning" timestamp="1554733918">HelperBox.m</file>
+    <file component="shared_positioning" timestamp="1554733918">HelperOrientationViewer.m</file>
+    <file component="shared_positioning" timestamp="1554733918">HelperPositionViewer.m</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateDefaultImuSensorSystemObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex35105558</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>TuneAhrs10filterToOptimizePoseEstimateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex35433322</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>PerturbImuSenosrParametersExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex35821154</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1616511275">imuSensorData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>TuneInsfilterAsyncToOptimizePoseEstimateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex36117153</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>IntroductionToSimulatingIMUMeasurementsNewExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex36223936</metadata>
+    <thumbnail>html/IntroductionToSimulatingIMUMeasurementsNewExample_05.png</thumbnail>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>SensorOutlierDetectionExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex36687728</metadata>
+    <thumbnail>html/SensorOutlierDetectionExample_03.png</thumbnail>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1618318790">helperCreatePoseViewers.m</file>
+    <file component="shared_positioning" timestamp="1575319335">loggedDataWithMultipath.mat</file>
+    <file component="shared_positioning" timestamp="1624271798">HelperPoseViewer.m</file>
+    <file component="shared_positioning" timestamp="1554733918">HelperPositionViewer.m</file>
+  </demoitem>
+  <demoitem>
+    <source>GestureRecognitionUsingInertialMeasurementUnitsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex38365381</metadata>
+    <product>matlab</product>
+    <product>nav</product>
+    <product>fusion</product>
+    <product>stats</product>
+    <product>parallel</product>
+    <file component="shared_positioning" timestamp="1655500310">helperClusterWithSplitting.m</file>
+    <file component="shared_positioning" timestamp="1655500310">helperQDTW.m</file>
+    <file component="shared_positioning" timestamp="1655500310">imuGestureDataset.mat</file>
+    <file component="shared_positioning" timestamp="1656430636">down.png</file>
+    <file component="shared_positioning" timestamp="1656430636">left.png</file>
+    <file component="shared_positioning" timestamp="1656430636">right.png</file>
+    <file component="shared_positioning" timestamp="1656430636">twist.png</file>
+    <file component="shared_positioning" timestamp="1656430636">up.png</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateTunerconfigObjectAndShowTunableParametersExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex39642707</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateInsGPSForUsingInInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex40407644</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimatePoseOfUAVAhrs10Example</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex41341662</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1553535885">fuse10exampledata.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateMagnetometerDataFromStationaryInputsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex42858034</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>FactorGraphPedestrianIMUGPSLocalizationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43748621</metadata>
+    <thumbnail>html/FactorGraphPedestrianIMUGPSLocalizationExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>nav</product>
+    <file component="shared_positioning" timestamp="1643991813">exampleHelperVisualizeFactorGraphAndFilteredPosition.m</file>
+    <file component="shared_positioning" timestamp="1643991813">exampleHelperFactorGraphNodes.m</file>
+    <file component="shared_positioning" timestamp="1643991813">pedestrianSensorDataIMUGPS.mat</file>
+    <file component="shared_positioning" timestamp="1643991813">exampleHelperPlotBasicFactorGraph.m</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateIMUDataFromStationaryInputExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex46286141</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>StateInformationOfAhrs10filterExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex46884603</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimatePoseOfUAVExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex48088275</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>TuneInsEKFToOptimizeOrientationEstimationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex49134607</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1637007960">accelGyroINSEKFData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>DetermineDeclinationOfBostonExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52076521</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateOrientationFromRecordedIMUDataExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex54139302</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>DetermineAllanDeviationAtSpecificValuesOfAuExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex54345360</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>TrackSpinningPlatformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex56610150</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateAccelerometerDataFromStationaryInputsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex56868961</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateInsAccelerometerForUsingInInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex57220432</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>IMUSensorFusionWithSimulinkExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex58374281</metadata>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="shared_positioning" timestamp="1578585781">IMUFusionSimulinkModel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>EstimatePoseOfGroundVehicleExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59121065</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>CustomizeSensorModelUsedWithInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59480384</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1640898490">BiasSensor.m</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateMotionModelTemplateForInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59684424</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>ModelTiltUsingGyroscopeAndAccelerometerReadingsExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex60622498</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1553874373">y120p60r30.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>IMUandAltimeterExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex61079635</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1539115983">Helper10AxisFusion.m</file>
+    <file component="shared_positioning" timestamp="1617878137">HelperPoseViewer.m</file>
+    <file component="shared_positioning" timestamp="1554733918">HelperPositionViewer.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WirelessDataStreamingBNO055BTEstimateOrientationSFTExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63127392</metadata>
+    <thumbnail>html/WirelessDataStreamingBNO055BTEstimateOrientationSFTExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>arduinoio</product>
+    <product>fusion</product>
+    <product>instrument</product>
+    <product>nav</product>
+    <file component="shared_positioning" timestamp="1579156309">HelperBox.m</file>
+    <file component="shared_positioning" timestamp="1579156309">HelperOrientationViewer.m</file>
+  </demoitem>
+  <demoitem>
+    <source>LowpassSLERPExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex63526339</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1537979724">HelperSlerpPlotting.m</file>
+    <file component="shared_positioning" timestamp="1537910698">helperQuat2AV.m</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateNoisyAltimeterReadingsFromStationaryInputExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63550172</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>TuneInsEKFWithCustomCostFunctionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex64316043</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1637007960">accelGyroINSEKFData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>CustomizeMotionModelUsedWithInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex69319107</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1640896518">ConstantVelocityMotion.m</file>
+  </demoitem>
+  <demoitem>
+    <source>TuneInsEKFWithMEXacceleratedCustomCostFunctionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex69943522</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1637007960">accelGyroINSEKFData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>EstimateIPhoneOrientationUsingSensorFusionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex70800655</metadata>
+    <thumbnail>html/EstimateIPhoneOrientationUsingSensorFusionExample_05.png</thumbnail>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1607714792">exampleHelperProcessPhoneData.m</file>
+    <file component="shared_positioning" timestamp="1610478282">samplePhoneData.mat</file>
+    <file component="shared_positioning" timestamp="1617880985">phoneMesh.stl</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateOffcenteredIMUReadingsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex70902117</metadata>
+    <thumbnail>html/GenerateOffcenteredIMUReadingsExample_01.png</thumbnail>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1576621139">helperplotpose.m</file>
+    <file component="shared_positioning" timestamp="1576621139">helperPlotIMU.m</file>
+    <file component="shared_positioning" timestamp="1576621139">HelperPosePatch.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SaveTunedParametersInMATFileUsingOutputFunctionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex72097531</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>TrackShaking9AxisIMUExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex74615380</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1553538142">IMUReadingsShaken.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>EstimateOrientationUsingAhrsfilterSPExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex75199762</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>ShowPoseUsingMeshesExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex75485787</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>DetermineAllanVarianceOfSingleAxisGyroscopeExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex76688906</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1553534267">LoggedSingleAxisGyroscope.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>TuneImufilterToOptimizeOrientationEstimateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex77448425</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>AllanVarianceExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex78040131</metadata>
+    <thumbnail>html/AllanVarianceExample_06.png</thumbnail>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1553534267">LoggedSingleAxisGyroscope.mat</file>
+    <file component="shared_positioning" timestamp="1547565636">helperAllanVarianceExample.m</file>
+    <file component="shared_positioning" timestamp="1547565636">SimulatedSingleAxisGyroscope.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateInsOptionsUsedWithInsEKFObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex79576134</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>RemoveBiasFromAngularVelocityMeasurementExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex79635960</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateInsEKFWithDifferentConfigurationsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex80046032</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>IMUOrientationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex80555034</metadata>
+    <thumbnail>html/IMUOrientationExample_04.png</thumbnail>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>LoadPredefinedParametersInImuSensorExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex80834073</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateInsMagnetometerForUsingInInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex81598983</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>AUVPoseEstimationIMUGPSDVLExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex82058447</metadata>
+    <thumbnail>html/AUVPoseEstimationIMUGPSDVLExample_01.jpeg</thumbnail>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1674588847">auv.stl</file>
+    <file component="shared_positioning" timestamp="1674588847">tunercost.m</file>
+    <file component="shared_positioning" timestamp="1674588847">ExampleHelperAUVTrajectoryPlotter.m</file>
+    <file component="shared_positioning" timestamp="1674588847">ExampleHelperDVLSensor.m</file>
+    <file component="shared_positioning" timestamp="1674588847">ExampleHelperINSDVL.m</file>
+    <file component="shared_positioning" timestamp="1674588847">exampleHelperDiveAndSurfaceTrajectory.m</file>
+    <file component="shared_positioning" timestamp="1674588847">exampleHelperGenerateAUVSensorData.m</file>
+    <file component="shared_positioning" timestamp="1674588847">auvPoseEstimationTunedFilter.mat</file>
+    <file component="shared_positioning" timestamp="1674588847">exampleHelperTuneAUVPoseFilter.m</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateSensorModelTemplateForInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex82257395</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>SetAndGetAccelerometerBiasCovariancesInInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex82965058</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>TuneArhsfitlerToImproveOrientationEstimateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex83780763</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimatePoseOfUAVMARGEExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex83854986</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>SequentialFusionOfAccelerometerAndGyroscopeDataExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex85138806</metadata>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1637007960">accelGyroINSEKFData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>VisualizePoseUsingPoseplotExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex91253682</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>FuseGyroscopeDataUsingInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex91545248</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>VisualizeTuningResultsUsingTunerPlotPoseExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex91711844</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>SetAndGetAccelerometerBiasesInInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex94296605</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>DetermineGravityVectorExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex94392933</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateInsMotionOrientationForUsingInInsEKFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex95379325</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>ResetInsEKFFilterObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex97052135</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>StateInformationOfInsfilterAsyncExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex97361046</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>AnimatePoseUsingPoseplotExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex97612380</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>GroundVehicleTightlyCoupledSimulationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex97743276</metadata>
+    <thumbnail>html/GroundVehicleTightlyCoupledSimulationExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>nav</product>
+    <file component="shared_positioning" timestamp="1643987545">routeNatickMATightlyCoupled.mat</file>
+    <file component="shared_positioning" timestamp="1643987545">exampleHelperINSGNSS.m</file>
+    <file component="shared_positioning" timestamp="1643987545">tunedNoiseParameters.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>TuneInsfilterNonholonomicToOptimizePoseEstimateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98055385</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>MagnetometerCalibrationExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex99076998</metadata>
+    <thumbnail>html/MagnetometerCalibrationExample_04.png</thumbnail>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1539717448">HelperDrawEllipsoid.m</file>
+  </demoitem>
+  <demoitem>
+    <source>CustomTuningOfFusionFiltersExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex99109428</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <file component="shared_positioning" timestamp="1602862695">customFcn.m</file>
+    <file component="shared_positioning" timestamp="1588164935">AHRSCustomTune.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>StateInformationOfInsfilterErrorStateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex99648049</metadata>
+    <product>matlab</product>
+  </demoitem>
+</demos>

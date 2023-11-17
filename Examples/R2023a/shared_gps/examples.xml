@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>GenerateGPSPositionMeasurementsFromStationaryInputExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex11067593</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>AddGPSSensorNoiseToGuidanceModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex13458013</metadata>
+    <thumbnail>html/AddGPSSensorNoiseToGuidanceModelExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>uav</product>
+    <file component="shared_gps" timestamp="1624540802">gpsBuses.sldd</file>
+    <file component="shared_gps" timestamp="1625674650">uavGPSModel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ModelGPSReceiverDataExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex47527127</metadata>
+    <product>matlab</product>
+  </demoitem>
+  <demoitem>
+    <source>SimulateGPSSensorNoiseExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex53287190</metadata>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="shared_gps" timestamp="1625683855">GPSNoiseModel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>RelationshipBetweenGroundspeedAndCourseAccuracyExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex76128184</metadata>
+    <product>matlab</product>
+  </demoitem>
+</demos>
